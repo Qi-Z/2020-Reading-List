@@ -11,5 +11,6 @@
 * Design Data-Intensive Applications
 * Developer Hegemony
 * The Manager’s Path
+https://zhuanlan.zhihu.com/p/34299399
 
 
