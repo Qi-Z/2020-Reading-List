@@ -15,4 +15,5 @@ https://zhuanlan.zhihu.com/p/34299399
 * 数据库相关 https://www.zhihu.com/question/26788013
 
 * https://zhuanlan.zhihu.com/p/22987816
+* Dynamic Programming and Optimal Control
 
