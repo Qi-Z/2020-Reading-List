@@ -28,3 +28,6 @@ https://www.ssl.com/faqs/faq-what-is-ssl/
 
 What's X.509?
 https://www.ssl.com/faqs/what-is-an-x-509-certificate/
+
+Browser and Certificate validation
+https://www.ssl.com/article/browsers-and-certificate-validation/#certificates-and-the-x509-format
