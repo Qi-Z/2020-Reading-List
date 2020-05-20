@@ -11,3 +11,8 @@ How many CA in a chain?
 
 What's Root CA?
 
+What's digital certificate?
+
+What's digital signature?
+
+
