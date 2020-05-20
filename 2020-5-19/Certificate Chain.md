@@ -23,3 +23,8 @@ Digital Signature algorithm
 https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/
 
 
+What's SSL?
+https://www.ssl.com/faqs/faq-what-is-ssl/
+
+What's X.509?
+https://www.ssl.com/faqs/what-is-an-x-509-certificate/
